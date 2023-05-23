@@ -59,15 +59,12 @@ a:nth-child(4) {
   .icon {
     font-size: 4rem;
   }
-
   .siteheader {
     padding-bottom: 15px;
     padding-top: 15px;
     /* display: flex;
   justify-content: center;
   align-items: center; */
-
-
   }
   .emojis {
     display: grid;
